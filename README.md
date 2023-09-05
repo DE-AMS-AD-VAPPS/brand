@@ -8,3 +8,6 @@
 ### subline
 - ![#333333](https://via.placeholder.com/15/333333/333333.png) `#333333`
 - ![#F5F5F5](https://via.placeholder.com/15/F5F5F5/F5F5F5.png) `#F5F5F5`
+
+> [!NOTE]
+> The text color is `#333333` for light mode and `#F5F5F5` for dark mode.
