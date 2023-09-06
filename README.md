@@ -1,13 +1,8 @@
-# brand
+# Eviden brand
+For Eviden Logo usage, Colors, Typefaces, Style guide etc. please refer to the [Eviden Brand Book](https://brand.eviden.com/).
+<br />
+<br />
+## STC5 branding
 
-## colors
-
-### logo
-- ![#FF6D43](https://via.placeholder.com/15/FF6D43/FF6D43.png) `#FF6D43`
-
-### subline
-- ![#333333](https://via.placeholder.com/15/333333/333333.png) `#333333`
-- ![#F5F5F5](https://via.placeholder.com/15/F5F5F5/F5F5F5.png) `#F5F5F5`
-
-> [!NOTE]
-> The text color is `#333333` for light mode and `#F5F5F5` for dark mode.
+### STC5 Logo
+The STC5 Logo in various formats and color modes can be found in the [assets folder](assets/STC5-Logo).
