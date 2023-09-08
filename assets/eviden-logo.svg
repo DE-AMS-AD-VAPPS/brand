@@ -7,12 +7,12 @@
           id="an-atos-business" />
     <style>
         #an-atos-business {
-            fill: #333333
+            fill: #000000
         }
 
         @media (prefers-color-scheme: dark) {
             #an-atos-business {
-                fill: #F5F5F5
+                fill: #ffffff
             }
         }
     </style>
