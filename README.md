@@ -9,3 +9,5 @@ The STC5 Logo in various formats and color modes can be found in the [assets fol
 <br>
 
 For Eviden Logo usage, Colors, Typefaces, Style guide etc. please refer to the [Eviden Brand Book](https://brand.eviden.com/).
+
+// Test Jochen
